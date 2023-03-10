@@ -8,3 +8,9 @@ body {
   color: #333;
   font-family: cursive;
 }
+
+.spacing {
+  margin: 2rem;
+  padding: 2rem;
+  border: 1px rgb(89, 46, 139) solid;
+}
